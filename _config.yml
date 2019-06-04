@@ -71,7 +71,7 @@ author:
       url: "https://github.com/LeoSaucedo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cgsphoto"
+      url: "https://instagram.com/thatleokid"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/LeoSaucedo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cgsphoto"
+      url: "https://instagram.com/thatleokid"
 
 defaults:
   # _posts
