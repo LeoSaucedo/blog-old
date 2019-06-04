@@ -5,3 +5,9 @@
 layout: home
 author_profile: true
 ---
+
+{% if page.url == '/' %}
+    <H1>About Me</H1>
+    {% capture my_include %}{% include about-me.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+{% endif %}
