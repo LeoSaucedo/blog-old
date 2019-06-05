@@ -22,6 +22,8 @@ github_username: LeoSaucedo
 minimal_mistakes_skin: dark
 search: true
 
+repository: "LeoSaucedo/blog"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -94,9 +96,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      #comments: true
       share: true
       related: true
+      comments: true
   # _pages
   - scope:
       path: "_pages"
@@ -112,8 +115,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  # Disqus Comments
-  comments:
-    provider: "disqus"
-    disqus: 
-      shortname: "cgsphoto"
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "cgsphoto"
