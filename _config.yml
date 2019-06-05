@@ -111,3 +111,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  # Disqus Comments
+  comments:
+    provider: "disqus"
+    disqus: 
+      shortname: "cgsphoto"
