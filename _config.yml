@@ -115,7 +115,16 @@ tag_archive:
   type: liquid
   path: /tags/
 
+
+# Comments
 comments:
   provider: "disqus"
   disqus:
     shortname: "cgsphoto"
+
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-93997218-3"
+    anonymize_ip: false # default
