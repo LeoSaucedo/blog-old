@@ -1,7 +1,7 @@
 ---
 title: "10 VSCode Extensions Every CS Student Needs"
 image: 
-  feature: vscode_featured.png
+  feature: /assets/images/vscode_featured.png
   feature-alt: "Visual Studio Code."
 date: 2019-06-05
 toc: true
