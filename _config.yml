@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Carlos Saucedo"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer Sciences - Florida State University"
+  name: "Carlos Saucedo"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Computer Science - Florida State University"
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
@@ -108,14 +108,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-
 
 # Comments
 comments:
