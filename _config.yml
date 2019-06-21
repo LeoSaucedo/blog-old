@@ -99,8 +99,6 @@ defaults:
       share: true
       related: true
       comments: true
-      image:
-        feature: "/assets/images/thumb.jpg"
       header:
         image: "/assets/images/thumb.jpg"
   # _pages
