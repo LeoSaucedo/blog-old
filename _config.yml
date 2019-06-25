@@ -87,6 +87,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/thatleokid"
 
+og_image: /assets/images/bio-photo.jpg
+
 defaults:
   # _posts
   - scope:
