@@ -8,9 +8,9 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "list-alt"
 categories:
-  - VSCode
-tags:
   - Top 10
+tags:
+  - VSCode
 ---
 
 Are you a Computer Science student that's just starting to kick off their interest for programming, or just downloaded VSCode because the code editor you were taught before college was last updated in the 90's? No matter your situation, these Visual Studio Code extensions will get your feet wet in this new, futuristic IDE, and impress your fellow students.
