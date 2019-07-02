@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Carlos Way
 email: carlos@cgsphoto.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Programming and more - done right!
+description: Programming and more - done right!
 twitter_username: ThatLeoKid42
 github_username: LeoSaucedo
 minimal_mistakes_skin: dark
