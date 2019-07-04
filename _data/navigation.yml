@@ -1,6 +1,4 @@
 main:
-  - title: "Subscribe"
-    url: /subscribe/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -9,3 +7,5 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Subscribe"
+    url: /subscribe/

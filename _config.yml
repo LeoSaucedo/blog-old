@@ -85,6 +85,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/thatleokid"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-envelope"
+      url: "/subscribe/"
 
 og_image: /assets/images/bio-photo.jpg
 
