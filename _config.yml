@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Carlos Way
+logo: favicon.ico
 email: carlos@cgsphoto.com
 description: Programming and more - done right!
 twitter_username: ThatLeoKid42
