@@ -7,15 +7,8 @@ author_profile: true
 ---
 
 {% if page.url == '/' %}
-  <h1>About</h1>
-  {% capture my_include %}{% include about-me.md %}{% endcapture %}
-  {{ my_include | markdownify }}
-
-  {% if jekyll.environment == 'production' %}
-    <h2>Subscribe to Newsletter</h2>
-    {% include mailchimp-form.html %}
-  {% endif %}
-
-  <h2>My Weekly Programming Activity</h2>
-  {% gist 1f5e25a461a063a7744708020a7479ca %}
-{% endif %}
+<h1>About</h1>
+{% capture my_include %}{% include about-me.md %}{% endcapture %} {{ my_include
+| markdownify }} {% if jekyll.environment == 'production' %}
+<h2>Subscribe to Newsletter</h2>
+{% include mailchimp-form.html %} {% endif %} {% endif %}
