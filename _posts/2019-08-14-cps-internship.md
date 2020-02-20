@@ -14,8 +14,6 @@ tags:
   - Coding
 ---
 
-## Background
-
 This summer, I was an Engineering/Web Intern at CPS Products, Inc. Throughout my internship, I learned and refined lots of skills that I'll be taking back and using in my career for years to come. The internship encompassed many different categories, including Web Development/WordPress Management, Software/Mobile App Development, Competitive Analysis and Research, and more. Over the course of the internship, I discovered TypeScript and added it to my skillset, and was able to refine and modernize my Apache Cordova experience with the newer Ionic framework, and was able to apply my skills to create a production-grade application that's in the works of being deployed today. Additionally, with some of the knowledge I amassed throughout the internship, I was able to develop a standalone app that allows you to communicate with a BLE (Bluetooth Low Energy), device as a terminal. I also learned some helpful tools to optimize a WordPress Website, and even managed to increase PageSpeed Insights by more than 50 points on several sites.
 
 ## Ionic and the Future of App Development
